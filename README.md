@@ -1,2 +1,2 @@
 # Stopwatch-JAVA
-I simple stopwatch made with Java 
+A simple stopwatch made with Java 
